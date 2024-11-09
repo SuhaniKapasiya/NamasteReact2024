@@ -1,0 +1,36 @@
+{
+  "name": "namastereact2024",
+  "version": "1.0.0",
+  "description": "This is nammaste react by Akshay Sani",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhaniKapasiya/NamasteReact2024.git"
+  },
+  "keywords": [
+    "react",
+    "akshay",
+    "sani"
+  ],
+  "author": "suhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhaniKapasiya/NamasteReact2024/issues"
+  },
+  "homepage": "https://github.com/SuhaniKapasiya/NamasteReact2024#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+   "Last 2 version"
+  ]
+}
